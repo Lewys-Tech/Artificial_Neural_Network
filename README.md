@@ -52,5 +52,5 @@ Let’s get this party started! Follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Lewys-Tech/Artificial_Neural_Network.git
    cd your-repo-name
